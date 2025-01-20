@@ -24,7 +24,7 @@ As a developer, I want to help a tattoo studio improve its online presence, much
 
 ### Outline any non-standard setup steps necessary to run your app locally after cloning the repo.
 1. Clone the repository:
-   git clone https://github.com/your-username/tmdb-client.git
+   git clone https://github.com/emily172/FYP-SSD.git
    
 2. <ins>Tattoo Site</ins>
 

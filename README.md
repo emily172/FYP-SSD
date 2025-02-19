@@ -48,3 +48,32 @@ As a developer, I want to help a tattoo studio improve its online presence, much
  
  + nodemon index.js
 
+
+
+## Resources
+
+(Accessed Dec 2024 and Jan 2025)
+
++ https://github.com/DMotta182/bootstrap 
+
++ https://socket.io/get-started/chat    
+
++ https://github.com/Pronesti/react_tuiter_client/blob/14a67a7b87186c65f3df06ae2c935195f10462f9/src/views/Register.js  
+
++ https://github.com/Lay-ton/creative-development/blob/93e8245fbca3ef563b4c45efd4120e6fd384de6c/client/src/components/common/dataList.js
+
++ https://react-icons.github.io/react-icons/ 
+
++ https://designer.microsoft.com/  
+
++ https://www.w3schools.com/REACT/default.asp  
+
++ https://getbootstrap.com/  
+
++ https://www.npmjs.com/ 
+
++ https://nodejs.org/en 
+
++ https://react.dev/
+
++ https://react-bootstrap.netlify.app/
